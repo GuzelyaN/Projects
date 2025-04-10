@@ -8,8 +8,7 @@ Managed the testing process for the desktop utility used to convert financial re
 3. [**XBRL Form Editor**](https://www.cbr.ru/projects_xbrl/taxonomy_xbrl/po-anketa-redaktor-xbrl-/)  
 *Role:* Test Manager  
 Led QA activities for the desktop application used to create and edit XBRL forms. Developed test plans, managed a team of testers, and ensured collaboration with developers and analysts.  
-Introduced automated testing, improving test coverage and efficiency.  
-Performed exploratory and validation testing, analyzed logs, and ensured compliance with business rules.
+Introduced automated testing, improving test coverage and efficiency. Performed exploratory and validation testing, analyzed logs, and ensured compliance with business rules.
 
 #### 🌐 Web Applications  
 3. [**Delta System**](https://www.cbr.ru/lk_uio/fcsm/programmnyy-produkt-delta/#t4)  
