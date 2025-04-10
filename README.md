@@ -2,7 +2,7 @@
 
 #### 🖥️ Desktop Applications  
 1. [**XBRL Converter Tool**](https://www.cbr.ru/projects_xbrl/taxonomy_xbrl/po-konverter-/#t1)  
-*Role:* Test Manager
+*Role:* Test Manager  
 Managed the testing process for the desktop utility used to convert financial reports into XBRL format. Defined test strategy and scope, coordinated QA activities, and reviewed test documentation. Oversaw functional, regression, and **cross-platform testing on Windows and Linux**. Participated in installation and compatibility validation.
 
 3. [**XBRL Form Editor**](https://www.cbr.ru/projects_xbrl/taxonomy_xbrl/po-anketa-redaktor-xbrl-/)  
