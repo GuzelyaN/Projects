@@ -21,3 +21,8 @@ Tested website content and localization, verified links and data presentation. P
 5. [**ECONS**](https://econs.online/en/)  
 *Role:* QA Engineer  
 Validated web content updates and publication logic. Analyzed logs and backend behavior to ensure stable operation of the research publishing platform. Performed exploratory testing across various user roles and screen resolutions. Checked subscription functionality, article formatting, and commenting features using Bitrix CMS.
+
+#### WEB3
+*Role:* QA Engineer
+6. [ZK Email](https://docs.zk.email/introduction)
+
