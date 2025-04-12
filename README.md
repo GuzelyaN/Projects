@@ -24,6 +24,6 @@ Validated web content updates and publication logic. Analyzed logs and backend b
 
 #### 🌐 WEB3
 6. [ZK Email](https://docs.zk.email/introduction)
-   *Role:* QA Engineer
- Analyzing the documentation, setting up the application, and generating & verifying ZK proofs within the application using the Blueprint SDK.
+*Role:* QA Engineer  
+Analyzing the documentation, setting up the application, and generating & verifying ZK proofs within the application using the Blueprint SDK.
 
