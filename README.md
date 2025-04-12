@@ -1,7 +1,7 @@
 ### 💼 Projects
 
-#### 🌐 WEB3
-1. [ZK Email](https://docs.zk.email/introduction)
+#### 🌐 WEB3  
+1. [ZK Email](https://docs.zk.email/introduction)  
 *Role:* QA Engineer  
 Analyzing the documentation, setting up the application, and generating & verifying ZK proofs within the application using the Blueprint SDK.
 
