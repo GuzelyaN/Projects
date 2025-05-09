@@ -19,8 +19,8 @@ Tested website content and localization, verified links and data presentation. P
 Validated web content updates and publication logic. Analyzed logs and backend behavior to ensure stable operation of the research publishing platform. Performed exploratory testing across various user roles and screen resolutions. Checked subscription functionality, article formatting, and commenting features using Bitrix CMS.
 
 #### 📱 Mobile Applications  
-5. [ЦБ ОНЛАЙН](https://www.cbr.ru/reception/online_app/)
-*Role* QA Tester
+5. [ЦБ ОНЛАЙН](https://www.cbr.ru/reception/online_app/)  
+*Role* QA Tester  
 Performed functional, regression, and usability testing on Android and iOS. Verified form submission logic, input validation, and notification delivery. Reported defects via Jira and collaborated with developers to ensure timely fixes. Conducted cross-device and screen resolution testing.
 
 #### 🖥️ Desktop Applications  
