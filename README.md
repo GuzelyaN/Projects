@@ -18,12 +18,17 @@ Tested website content and localization, verified links and data presentation. P
 *Role:* QA Engineer  
 Validated web content updates and publication logic. Analyzed logs and backend behavior to ensure stable operation of the research publishing platform. Performed exploratory testing across various user roles and screen resolutions. Checked subscription functionality, article formatting, and commenting features using Bitrix CMS.
 
+#### 🌐 Mobile Applications  
+5. [ЦБ ОНЛАЙН](https://www.cbr.ru/reception/online_app/)
+*Role* QA Tester
+Performed functional, regression, and usability testing on Android and iOS. Verified form submission logic, input validation, and notification delivery. Reported defects via Jira and collaborated with developers to ensure timely fixes. Conducted cross-device and screen resolution testing.
+
 #### 🖥️ Desktop Applications  
-5. [**XBRL Converter Tool**](https://www.cbr.ru/projects_xbrl/taxonomy_xbrl/po-konverter-/#t1)  
+6. [**XBRL Converter Tool**](https://www.cbr.ru/projects_xbrl/taxonomy_xbrl/po-konverter-/#t1)  
 *Role:* Test Manager  
 Managed the testing process for the desktop utility used to convert financial reports into XBRL format. Defined test strategy and scope, coordinated QA activities, and reviewed test documentation. Oversaw functional, regression, and cross-platform testing on Windows and Linux. Participated in installation and compatibility validation.
 
-6. [**XBRL Form Editor**](https://www.cbr.ru/projects_xbrl/taxonomy_xbrl/po-anketa-redaktor-xbrl-/)  
+7. [**XBRL Form Editor**](https://www.cbr.ru/projects_xbrl/taxonomy_xbrl/po-anketa-redaktor-xbrl-/)  
 *Role:* Test Manager  
 Led QA activities for the desktop application used to create and edit XBRL forms. Developed test plans, managed a team of testers, and ensured collaboration with developers and analysts. Introduced automated testing, improving test coverage and efficiency. Performed exploratory and validation testing, analyzed logs, and ensured compliance with business rules.
 
